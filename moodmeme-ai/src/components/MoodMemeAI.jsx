@@ -338,7 +338,7 @@ const MoodMemeAI = () => {
             <Sparkles className="text-yellow-400 w-16 h-16 animate-pulse" />
           </h1>
           <p className="text-white/80 text-xl max-w-3xl mx-auto leading-relaxed">
-            🤖 <strong>AI 감정 분석</strong> + 🎨 <strong>GPT 밈 생성</strong> = 😂 <strong>완벽한 밈!</strong>
+             <strong>AI 감정 분석</strong> +  <strong>GPT 밈 생성</strong> =  <strong>완료!</strong>
             <br />
             당신의 표정을 분석해서 맞춤형 밈을 자동으로 만들어드립니다
           </p>
@@ -840,8 +840,8 @@ const MoodMemeAI = () => {
 
         {/* 푸터 */}
         <div className="text-center text-white/60 pb-8">
-          <p className="text-lg mb-2">Made with ❤️ by MoodMeme.ai</p>
-          <p className="text-sm">AI 기반 감정 분석 & 밈 생성 서비스 - 완전 무료!</p>
+          <p className="text-lg mb-2">Made with by MoodMeme.ai</p>
+          <p className="text-sm">AI 기반 감정 분석 & 밈 생성</p>
           <div className="mt-4 flex justify-center gap-6 text-sm">
             <span className="flex items-center gap-1">🤖 Advanced AI</span>
             <span className="flex items-center gap-1">🎨 Creative Memes</span>
